@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Music Quiz </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="app">
+        <h1> Guess the Måneskin song! </h1>
+        <div class="quiz">
+          <h2 id="question4"> Which song has these lyrics?: 'Give me your liquid spirit' </h2>
+          <div id="answer-buttons">
+            <button class="btn"> Moriro Da Re </button>
+            <button class="btn"> Touch Me </button>
+            <button class="btn"> New Song </button>
+            <button class="btn"> Supermodel </button>
+          </div>
+          <button id="next-btn"> Next </button>
+        </div>
+      </div>
+ 
+ 
+  <script src="script.js"> </script> 
+</body>
+</html>

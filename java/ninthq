@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Music Quiz </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app">
+        <h1> Guess the Måneskin song! </h1>
+        <div class="quiz">
+          <h2 id="question9"> Which song has these lyrics?: 'Meet me there where it never closes' </h2>
+          <div id="answer-buttons">
+            <button class="btn"> Read Your Diary </button>
+            <button class="btn"> L'altra Dimensione </button>
+            <button class="btn"> Honey (Are U Coming?) </button>
+            <button class="btn"> Bla Bla Bla </button>
+          </div>
+          <button id="next-btn"> Next </button>
+        </div>
+      </div>
+ 
+  <script src="script.js"> </script> 
+</body>
+</html>

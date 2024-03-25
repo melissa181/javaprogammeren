@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Music Quiz </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app">
+        <h1> Guess the Måneskin song! </h1>
+        <div class="quiz">
+          <h2 id="question3"> Which song has these lyrics?: 'Yeah, you were running and running and running away from this conversation' </h2>
+          <div id="answer-buttons">
+            <button class="btn"> Baby Said </button>
+            <button class="btn"> Lividi Sui Gomiti </button>
+            <button class="btn"> Fear For Nobody </button>
+            <button class="btn"> Beggin' </button>
+          </div>
+          <button id="next-btn"> Next </button>
+        </div>
+      </div>
+ 
+ 
+  <script src="script.js"> </script> 
+</body>
+</html>

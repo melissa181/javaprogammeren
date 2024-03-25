@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Music Quiz </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app">
+        <h1> Guess the Måneskin song! </h1>
+        <div class="quiz">
+          <h2 id="question2"> Which song has these lyrics?: 'Because I'm the devil, who's searching for redemption' </h2>
+          <div id="answer-buttons">
+            <button class="btn"> Mammamia </button>
+            <button class="btn"> Own My Mind </button>
+            <button class="btn"> Stato Di Natura </button>
+            <button class="btn"> I Wanna Be Your Slave </button>
+          </div>
+          <button id="next-btn"> Next </button>
+        </div>
+      </div>
+ 
+ 
+  <script src="script.js"> </script> 
+</body>
+</html>
